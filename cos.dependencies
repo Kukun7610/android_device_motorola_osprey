@@ -1,15 +1,15 @@
 [
   {
     "remote":      "github",
-    "repository":  "AOSiP-Devices/device_motorola_msm8916-common",
+    "repository":  "ishubhamsingh/android_device_motorola_msm8916-common",
     "target_path": "device/motorola/msm8916-common",
-    "branch":      "nougat"
+    "branch":      "n-mr2"
   },
   {
     "remote":      "github",
-    "repository":  "desaishivam26/android_kernel_motorola_msm8916",
+    "repository":  "ishubhamsingh/android_kernel_motorola_msm8916",
     "target_path": "kernel/motorola/msm8916",
-    "branch":      "cm-14.1"
+    "branch":      "nougat-mr2"
   },
   {
     "remote":      "github",
